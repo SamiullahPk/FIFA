@@ -1,1 +1,1 @@
-# FIFA
+StadiumPulse is the ultimate dynamic Football World Cup companion that automatically adapts to your local timezone. Track live match schedules, upcoming fixtures, and explore comprehensive arena profiles—including seating capacity, pitch details, and real-time match attendance. Experience the game in your own time, with automatic data updates and a sleek, responsive dashboard designed for global football fans.
